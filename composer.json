@@ -1,0 +1,21 @@
+{
+    "name": "tabgeo/country",
+    "description": "geoip (only countries) php library (http://tabgeo.com)",
+    "keywords": ["geoip", "tabgeo", "countrycode", "location", "geolocation"],
+    "type": "library",
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vasili Yurkevich",
+            "email": "dostelon@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "files": ["src/TabGeo/country.php"]
+    }
+}
