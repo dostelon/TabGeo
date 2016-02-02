@@ -6,7 +6,7 @@
     "require": {
         "php": ">=5.2.0"
     },
-    "version": "1.0.5",
+    "version": "1.0.10",
     "license": "MIT",
     "authors": [
         {
