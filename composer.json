@@ -1,12 +1,12 @@
 {
     "name": "tabgeo/country",
     "description": "geoip (only countries) php library (http://tabgeo.com)",
-    "keywords": ["geoip", "tabgeo", "countrycode", "location", "geolocation"],
+    "keywords": ["geoip", "tabgeo", "countrycode", "location", "geolocation", "location"],
     "type": "library",
     "require": {
         "php": ">=5.2.0"
     },
-    "version": "1.0.11",
+    "version": "1.0.12",
     "license": "MIT",
     "authors": [
         {
